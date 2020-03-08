@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.corn_cont {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+    display: block;
+}
+.logo {
+    width: 28%;
+    height: 6%;
+    position: relative;
+    top: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../bitmaps/logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+h1 {
+    text-align: center;
+    font-family: 'Sriracha';
+    font-size: 21px;
+    margin-top: 18%;
+}
+.ar_icon {
+    width: 25%;
+    height: 25%;
+    position: relative;
+    margin-top: 18%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../bitmaps/ar.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text_cont {
+    width: 55%;
+    height: auto;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    font-family: 'Nunito';
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+.download_butt {
+    width: 50%;
+    height: 5%;
+    background-color: #FFC857;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 4%;
+    margin-top: 12%;
+    border-radius: 12px;
+    font-family: 'Nunito';
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+    box-shadow: 4px 4px 10px #969696;
+}
+.chips_cont {
+    width: 100vw;
+    height: 105vh;
+    margin: 0;
+    margin-bottom: 5%;
+    position: relative;
+    display: block;
+}
+.ar_type {
+    width: 100%;
+    height: auto;
+    padding-bottom: 12%;
+    padding-top: 12%;
+    position: relative;
+    display: block;
+}
+.ar_type p {
+    text-align: center;
+    font-family: 'Nunito';
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    top: 20%;
+    text-shadow: 3px 3px 5px #000000;
+}
+.install {
+    width: 100%;
+    height: auto;
+    margin-top: 8%;
+    position: relative;
+}
+.install h1 {
+    font-size: 24px;
+    font-family: 'Nunito';
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    text-align: left;
+}
+.install_dec {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+}
+.install p {
+    font-family: 'Nunito';
+    font-size: 17px;
+}
+footer {
+    width: 100vw;
+    height: 5vh;
+    background-color: #000000;
+    position: relative;
+    padding-top: 5%;
+    margin-bottom: 0;
+}
+footer p {
+    font-family: 'Nunito';
+    font-size: 14px;
+    color: white;
+    margin-left: 5%;
+}
