@@ -39,15 +39,16 @@ h1 {
     background-size: cover;
 }
 .text_cont {
-    width: 55%;
-    height: auto;
+    width: 37%;
+    height: 10%;
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20%;
+    padding-top: 4%;
+    margin-top: 10%;
     font-family: 'Nunito';
-    font-size: 16px;
-    font-weight: 600;
+    font-size: 13px;
+    font-weight: 800;
     text-align: center;
 }
 .download_butt {
