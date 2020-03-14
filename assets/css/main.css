@@ -51,20 +51,15 @@ h1 {
     text-align: center;
 }
 .download_butt {
-    width: 50%;
-    height: 5%;
-    background-color: #FFC857;
     position: relative;
     margin-left: auto;
     margin-right: auto;
     padding-top: 4%;
     margin-top: 12%;
-    border-radius: 12px;
     font-family: 'Nunito';
     font-size: 16px;
     font-weight: 800;
     text-align: center;
-    box-shadow: 4px 4px 10px #969696;
 }
 .chips_cont {
     width: 100vw;
