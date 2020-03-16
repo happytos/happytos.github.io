@@ -79,6 +79,9 @@ i {
     position: relative;
     display: block;
 }
+a {
+    text-decoration: none;
+}
 .ar_type {
     width: 100%;
     height: auto;
